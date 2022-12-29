@@ -43,7 +43,7 @@
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
               <label>Body</label>
-              <input type="tel" class="form-control" placeholder="Enter the Doctor's Phone No" id="phone" name="body" required data-validation-required-message="Please subheading">
+              <textarea rows="5" class="form-control" placeholder="Enter the Doctor's Phone No" id="message" name="body" required data-validation-required-message="Please enter the post content."></textarea>
               <p class="help-block text-danger"></p>
             </div>
           </div>
