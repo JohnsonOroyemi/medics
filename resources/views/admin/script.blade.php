@@ -17,7 +17,4 @@
     <!-- Custom js for this page -->
     <script src="admin/assets/js/dashboard.js"></script>
 
-    <script src="//cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
-    <script>
-        CKEDITOR.replace( 'body' );
-    </script>   
+      
